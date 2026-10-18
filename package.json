@@ -1,0 +1,9 @@
+{
+  "name": "focus-companion-pwa",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test tests/*.test.mjs"},
+  "description": "Private, offline-first Ethiopian-calendar personal knowledge and action PWA",
+  "license": "UNLICENSED"
+}
